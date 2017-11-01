@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    skin:enable="true"
+    >
+    <FrameLayout
+        android:id="@+id/id_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        skin:enable="true"
+        android:background="@color/bg_color_white">
+
+        <RadioGroup
+            android:id="@+id/rg_menu_group"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="1dp"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rb_menu_pic"
+                skin:enable="true"
+                style="@style/bottom_tab_style"
+                android:textColor="@drawable/select_menu_text_color"
+                android:text="图片" />
+
+            <RadioButton
+                android:id="@+id/rb_menu_setting"
+                skin:enable="true"
+                style="@style/bottom_tab_style"
+                android:textColor="@drawable/select_menu_text_color"
+                android:text="设置" />
+        </RadioGroup>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#22000000" />
+    </RelativeLayout>
+
+</LinearLayout>

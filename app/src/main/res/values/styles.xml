@@ -1,0 +1,98 @@
+<resources>
+
+    <style name="AppStartFullscreen" parent="android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <!--启动页 这种方式的效果类似于QQ，UC,支付宝，启动页直接消失，没有左进右出的效果-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- MD风格主题 theme  -->
+        <!--状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--标题栏颜色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!--主题控件颜色  进度条、edittext指针颜色等 -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--主题文字颜色 -->
+        <!--<item name="android:textColorPrimary">@color/colorTheme</item>-->
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!--activity统一切换动画 右进右出-->
+        <item name="android:windowAnimationStyle">@style/activityAnimation</item>
+    </style>
+
+    <!-- Main activity theme. -->
+    <style name="AppThemeMain" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- MD风格主题 theme  -->
+        <!--状态栏颜色 -->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--标题栏颜色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!--主题控件颜色  进度条、edittext指针颜色等 -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--主题文字颜色 -->
+        <!--<item name="android:textColorPrimary">@color/colorTheme</item>-->
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!--activity统一切换动画 右进右出-->
+        <item name="android:windowAnimationStyle">@style/activityAnimation</item>
+    </style>
+
+    <!-- 用于开启滑动返回功能的 Activity -->
+    <style name="AppTheme.Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+
+    <!-- activity界面切换动画 -->
+    <style name="activityAnimation" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_right_out</item>
+    </style>
+
+    <!--分割线样式-->
+    <style name="lineStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:background">#cccccc</item>
+    </style>
+
+    <!-- RadioGroup首页底部菜单样式 -->
+    <style name="bottom_tab_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:button">@android:color/transparent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@drawable/select_menu_text_color</item>
+        <item name="android:drawablePadding">-1dp</item>
+    </style>
+
+    <style name="dialog_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_copy_link_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\share_icon_copy_link_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom_pic_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\menu_bottom_pic_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_menu_text_color.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\select_menu_text_color.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_style.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\progress_bar_style.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_cancel_btn_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\share_cancel_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_sinaweibo_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\share_icon_sinaweibo_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\city_picker_overlay_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\city_picker_overlay_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechat_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\share_icon_wechat_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bga_sbl_shadow.9.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-swipebacklayout\\1.0.8\\res\\drawable\\bga_sbl_shadow.9.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechatfriends_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\share_icon_wechatfriends_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_loading.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\frame_loading.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bga_banner_selector_point_solid.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\bga_banner_selector_point_solid.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_action_bg_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\btn_action_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\2.9.28\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\robot_warn_bg_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\robot_warn_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ad_shape.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\btn_ad_shape.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\robot_send_btn_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\robot_send_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_qq_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\share_icon_qq_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\city_picker_search_box_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\city_picker_search_box_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom_my_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\menu_bottom_my_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\2.9.28\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_webview_greenprogress.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\custom_webview_greenprogress.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\btn_bottom_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_more_selector.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\XPlanPic.libraries\\common\\unspecified\\res\\drawable\\share_icon_more_selector.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_titlebar_back.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\selector_titlebar_back.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_shape.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\dialog_shape.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_menu_text_color_night.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\select_menu_text_color_night.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bga_banner_selector_point_hollow.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\bga_banner_selector_point_hollow.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stateview_data_error.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\stateview_data_error.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stateview_net_error.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable\\stateview_net_error.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    }
+]

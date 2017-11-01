@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_pic_pre.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\menu_pic_pre.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\head_default.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\head_default.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_my.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\menu_my.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\to_top.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\to_top.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_news.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\menu_news.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_barcode.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\scan_barcode.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bga_banner_point_enabled.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\bga_banner_point_enabled.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_pic.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\menu_pic.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\holder_img.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\holder_img.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bga_banner_point_disabled.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\bga_banner_point_disabled.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_my_pre.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xhdpi\\menu_my_pre.png"
+    }
+]

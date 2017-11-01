@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <color name="share_cancel_pressed">#22000000</color>
+  <color name="share_cancel_normal">#FFFFFF</color>
+</resources>

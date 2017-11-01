@@ -1,0 +1,7 @@
+#Wed Nov 01 11:09:34 CST 2017
+base.0=D\:\\opensourse\\XPlanPic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1b20f03513a209c34e006d34e9f8d9d85c080698
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\opensourse\\XPlanPic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c71dd3de5436ec2ee14cc8d1737df3979cb8f679\\classes.dex
+base.1=D\:\\opensourse\\XPlanPic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c71dd3de5436ec2ee14cc8d1737df3979cb8f679
+file.0=D\:\\opensourse\\XPlanPic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1b20f03513a209c34e006d34e9f8d9d85c080698\\classes.dex

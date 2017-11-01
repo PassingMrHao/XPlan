@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_bar_back_press_white.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xxhdpi\\title_bar_back_press_white.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_bar_menu.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xxhdpi\\title_bar_menu.png"
+    },
+    {
+        "merged": "D:\\opensourse\\XPlanPic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\title_bar_back_btn_white.png",
+        "source": "D:\\opensourse\\XPlanPic\\app\\src\\main\\res\\drawable-xxhdpi\\title_bar_back_btn_white.png"
+    }
+]

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_722c50362aac1d1831b7a6c363c62a89d9cc68ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c6d36281ce1c28ebeb58155c3ceac425dcec5e2">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-1.5.0_e6fc699c9d40330a70c62a8167f029d566185937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android-no-op\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b813cd1a6c6fe1c61fb0e6876f7d09067ba19fb">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.squareup.leakcanary-leakcanary-android-no-op-1.5.1_7495d872a61230e021a2c08e1b203203353f70da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.github.hotchemi\permissionsdispatcher\2.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="178a142a25abea83b5bbb8c2660e6fb6c1ac7eb1">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.hotchemi-permissionsdispatcher-2.4.0_04226389604afe7b912eb1fd20a952a0d8a4c2a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bf2709be142a2d0784d5e548842026dc28079dc">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-1.5.0_409db9e96f5a38fcd6bccf5430733147e60d30bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_fd2545284c435f4e32a146cb7cd010ccefe758d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_d0247d7b030ee8a0d5bc04138a7c63609cc3de0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_69583f8205ea3ddf6dcb133c2b3ed753a1fb37a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9644834bb403cfd73f5695b908a933c1ff236217">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-1.5.0_9b7cd79c8a8591f4615d1a16aa8a2e9f794c42cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_6b79a2df55496a31c4ce1c4ab470bd53f4f521e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_2e1c771cc155ae1021ab00bd594e0e8088530657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.1_f675b3522ab15ade44185bf6f6a484ee42e57126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.orhanobut\logger\2.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3da801940221b852f3a3ee82bfe2a10d39e4ffa">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.orhanobut-logger-2.1.1_c7eef5399d0b5631589cfa189a13f0cdb27058fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da8b8f3f1fed75b39f0b9228bea5512f10bfff6f">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-1.5.0_6c01ac0f2d56f80682ced6d22a1f5fe4ea0fe7f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3e23411fac9e609063f9b3dd89ea82930c4fa59">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1b20f03513a209c34e006d34e9f8d9d85c080698\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d86f0fe4d87c8da0103efeaabfe539ca402fc723">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c71dd3de5436ec2ee14cc8d1737df3979cb8f679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_a80ffd619a8fa8caeb96bf8d80ac5ac65f576474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_6fc57cb00c1740c0fe34fb177a610ea3e1a2abad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_32b17207b49f2502213d4a6a0b362945232ce876\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.3.0\1eaa5762cb25c31b1905e2bfdfef70a2e0495ea6\converter-scalars-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1eaa5762cb25c31b1905e2bfdfef70a2e0495ea6">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-scalars-2.3.0_3dda0f00abd7e99ab3a710b0ed4a97c8cd25df2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.0\f765f004f3e201bd6ad0904266e605d7fb776d5\logging-interceptor-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.8.0_b44a698aac59c9c29dc6541e23deb98e67d77c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_8627b0c945ec90aa0358333d5e38a25ec6b6d22b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_bbaf0a61b1c559f5c2a6be597311886cb767b771\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.3_18ba0afdea195348b506b5a6c632ecc6734a4e7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.jaeger.statusbarutil\library\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3ec214e56d71e9d6eafeb94a5cb381d52f41ab1">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jaeger.statusbarutil-library-1.4.0_ca9d75f5ce7a852f53d16f10338f42c120076dd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9602d1e79216cd0e61d22fad40caee64365f29ac">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-1.5.0_be4397785575496ad58d4f114de7e1255a196443\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\2.1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2115d9dd8708cb48e7481b1259ae9f00dc16a032">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-2.1.3_df04dbcb943170b5cbc82f2eeecf91a5b8eaa42b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_1b536f415397eba9748ecd9385749b06fd8ea929\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_b0f4655ecba2dcda72aa92630e5e43c499d0a50a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_ced2f3ee418a7f792a053cbac0b5705bc94c8c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\cn.bingoogolapple\bga-swipebacklayout\1.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3eecadef3cd6a3146a6d07c003ba4885535f8245">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.bingoogolapple-bga-swipebacklayout-1.0.8_c24a6123e778f1febfa21c637966ac50e3e81bef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.github.CymChad\BaseRecyclerViewAdapterHelper\2.9.28\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55fc78591365a475fe30fd84d7c18450449111f6">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.CymChad-BaseRecyclerViewAdapterHelper-2.9.28_c9456c8f6d74a9a910ff005fc2c2bb933a02dcfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_b75efa3b975e360baa4d2a38512797d7cf59eda9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_0076baacfa0a15df7b1a6983d63f95d22c38a2b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\opensourse\XPlanPic\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.3.1_16f2797ea5108e63dc1e815583e8811de3b0ea04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_520e54c317e946292d8355fe725d6af87437d60a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\rick\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\opensourse\XPlanPic\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_78d19125bcf00428b69b9fb72b00488c2e16ca62\classes.dex" />
+    </item>
+
+</items>

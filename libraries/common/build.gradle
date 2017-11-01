@@ -1,0 +1,53 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:25.3.1'
+
+    //打印日志
+    compile 'com.orhanobut:logger:2.1.1'
+    /*网络相关*/
+    compile 'com.squareup.okhttp3:okhttp:3.8.1'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.8.0'
+    compile 'com.squareup.retrofit2:retrofit:2.3.0'
+    compile 'com.squareup.retrofit2:converter-scalars:2.3.0'//自动返回String
+    //Json解析
+    compile 'com.google.code.gson:gson:2.8.2'
+    // 图片缓存框架
+    compile 'com.facebook.fresco:fresco:1.5.0'
+    //是否使用fresco自带的okhttp,如果已经单独引用了okhttp则不使用该库
+//    compile "com.facebook.fresco:imagepipeline-okhttp3:1.5.0"
+    //事件总线
+    compile 'org.greenrobot:eventbus:3.0.0'
+    //BRVAH是一个强大的RecyclerAdapter框架
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.28'
+    // StatusBarUtil 沉浸式状态栏
+    compile 'com.jaeger.statusbarutil:library:1.4.0'
+    //添加leakcanary相关的依赖
+    //在release和test版本中，使用的是LeakCanary的no-op版本，也就是没有实际代码和操作的Wrapper版本，
+    // 只包含LeakCanary和RefWatcher类的空实现，这样不会对生成的APK包体积和应用性能造成影响
+    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5.1'
+    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'
+    testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'
+}

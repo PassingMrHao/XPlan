@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color|reference" name="drawShadow"/>
+    <attr format="boolean" name="enable"/>
+    <item name="tag_skin_attr" type="id"/>
+    <string name="app_name">QSkinLoaderLib</string>
+</resources>
