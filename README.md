@@ -8,7 +8,7 @@
   3.聊天机器人采用图灵接口，展示简单的对话信息。         
   4.开源项目使用：  
     Retrofit + OkHttp + Gson + fresco  
-    [BaseRecyclerViewAdapterHelper(ReclerView万能适配器)](图片链接 "optional title")
+    [BaseRecyclerViewAdapterHelper(ReclerView万能适配器)](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
     BaseRecyclerViewAdapterHelper(ReclerView万能适配器)
     StateView(用于几种状态布局的切换)
 JieCaoVideoPlayer(视频播放)
