@@ -5,8 +5,9 @@
   1.jsoup抓取网页图片和文字信息，利用Recyclerview的瀑布流形式展示，支持下拉刷新，加载更多，快速返回    
   2.点击图片进入浏览大图模式，仿今日头条样式，支持放大缩小，上下滑动图片退出。   
   3.聊天机器人采用图灵接口，展示简单的对话信息。  
-  4.支持界面滑动返回，沉浸式状态栏，动态权限处理
-  开源项目使用：  
+  4.支持界面滑动返回，沉浸式状态栏，动态权限处理  
+  
+   开源项目使用：  
     Retrofit + OkHttp + Gson + fresco  
     [BaseRecyclerViewAdapterHelper(ReclerView万能适配器)](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)  
     [statusbarutil 沉浸式状态栏](https://github.com/laobie/StatusBarUtil)  
