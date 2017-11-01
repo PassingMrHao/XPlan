@@ -17,7 +17,12 @@
     [bga-swipebacklayout 滑动返回](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)   
     [logger 日志](https://github.com/orhanobut/logger)   
     
-  下载体验： [XPlan.apk](https://github.com/JustRight815/XPlan/blob/master/app/build/outputs/apk/app-debug.apk) 
-    
+  下载体验： [XPlan.apk](https://github.com/JustRight815/XPlan/blob/master/apk/app-debug.apk) 
+  
+    
+    
+  效果预览：  
+  
+    ![XPlan.apk](https://github.com/JustRight815/XPlan/blob/master/screenshort/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171101151455.png) 
     
    
