@@ -21,8 +21,10 @@
   
     
     
-  效果预览：  
-  
-    ![XPlan.apk](https://github.com/JustRight815/XPlan/blob/master/screenshort/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171101151455.png) 
-    
-   
+  效果预览：    
+    ![XPlan](https://github.com/JustRight815/XPlan/blob/master/screenshort/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171101151455.png) 
+     ![XPlan](https://github.com/JustRight815/XPlan/blob/master/screenshort/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171101151511.jpg)
+     ![XPlan](https://github.com/JustRight815/XPlan/blob/master/screenshort/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171101151537.jpg)
+ ![XPlan](https://github.com/JustRight815/XPlan/blob/master/screenshort/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171101151542.png)
+ ![XPlan](https://github.com/JustRight815/XPlan/blob/master/screenshort/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171101151546.jpg)
+ ![XPlan](https://github.com/JustRight815/XPlan/blob/master/screenshort/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171101151554.jpg)
